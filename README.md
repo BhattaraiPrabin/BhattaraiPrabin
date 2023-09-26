@@ -55,7 +55,7 @@ I am a **Digital Marketing Expert** with a track record of completed projects fo
 
 
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
-- 
+
 
 Currently, I am working as the **Chief Technology Officer (CTO)** at Skill Training Nepal.
 
@@ -71,15 +71,12 @@ Currently, I am working as the **Chief Technology Officer (CTO)** at Skill Train
 
 <br>
 
-![Bootstrap](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![CSS3](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![Bootstrap](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)<br>
+![CSS3](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)<br>
 
 <br>
 
-![Figma](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![LAMP](https://img.shields.io/badge/Tools-LAMP-informational?style=flat&logo=LAMP&color=CB3837)
-![Heroku](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![Firebase](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=Firebase&color=00C7B7)
-![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![Figma](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)<br>
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)<br>
+![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)<br>
 
