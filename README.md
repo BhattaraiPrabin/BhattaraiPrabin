@@ -48,10 +48,10 @@ I am a **Digital Marketing Expert** with a track record of completed projects fo
 - [Samsung Service Nepal](https://samsungservicenepal.com/)
 - ## 🤝 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/bhattaraiprabin/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?style=flat&logo=Instagram)](https://instagram.com/prabinbhattaryah)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat&logo=Facebook)](https://facebook.com/prabinbhattaryah/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=Twitter)](https://twitter.com/bh.prabin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/bhattaraiprabin/) <br>
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?style=flat&logo=Instagram)](https://instagram.com/prabinbhattaryah) <br>
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat&logo=Facebook)](https://facebook.com/prabinbhattaryah/) <br>
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=Twitter)](https://twitter.com/bh.prabin) ****
 
 
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
