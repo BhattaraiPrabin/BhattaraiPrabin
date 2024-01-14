@@ -59,24 +59,3 @@ I am a **Digital Marketing Expert** with a track record of completed projects fo
 
 Currently, I am working as the **Chief Technology Officer (CTO)** at Skill Training Nepal.
 
-## 💼 Technical Skills
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=61DAFB)<br>
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)<br>
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=CC342D)<br>
-![Django](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=CC0000)<br>
-![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)<br>
-![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=QL&color=336791)<br>
-![SQLite](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)<br>
-![WordPress](https://img.shields.io/badge/Code-Wordpress-informational?style=flat&logo=Wordpress&color=C03A57)<br>
-
-<br>
-
-![Bootstrap](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)<br>
-![CSS3](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)<br>
-
-<br>
-
-![Figma](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)<br>
-![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)<br>
-![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)<br>
-
