@@ -5,7 +5,7 @@
 🔭 Currently Working On:
 - Digital Marketing
 - CRM for Gadgets Repair Management System
-- Deliberation Nepal
+- Nepspot Group
 
 🌱 Learning Computer Science
 
