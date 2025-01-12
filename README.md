@@ -9,7 +9,7 @@
 ---
 
 ## **About Me**  
-I am **Prabin Bhattarai**, a passionate **Student of Information Technology **, **Digital Marketer*, and **Web Developer** with experience in **Search Engine Optimization (SEO)**, **Pay-Per-Click Advertising (PPC)**, and **Web Analytics**. With a Bachelor's degree in Computer Science (BCS IT) from **IUKL University**, I bring over **7 years of experience** in:  
+I am **Prabin Bhattarai**, a passionate **Student of Information Technology**, **Digital Marketer**, and **Web Developer** with experience in **Search Engine Optimization (SEO)**, **Pay-Per-Click Advertising (PPC)**, and **Web Analytics**. With a Bachelor's degree in Computer Science (BCS IT) from **IUKL University**, I bring over **7 years of experience** in:  
 - **Creating Digital Marketing Strategies** for businesses.  
 - **Developing cutting-edge websites** and applications.  
 - **Mentoring future digital marketers** as a trainer at **Skill Training Nepal**.  
