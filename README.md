@@ -121,13 +121,39 @@ I can help you:
 - **GitHub**: [github.com/BhattaraiPrabin](https://github.com/BhattaraiPrabin/)  
 
 ------
+## 🚀 **Skills**
 
-## Tools and Stacks I Work With  
+### **Digital Marketing**
+![SEO](https://img.shields.io/badge/SEO-%23000000.svg?style=for-the-badge&logo=google&logoColor=white)
+![PPC](https://img.shields.io/badge/PPC-%23E4405F.svg?style=for-the-badge&logo=google-ads&logoColor=white)
+![SMM](https://img.shields.io/badge/SMM-%23349AEB.svg?style=for-the-badge&logo=twitter&logoColor=white)
+![Email Marketing](https://img.shields.io/badge/Email_Marketing-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-%23F4B400.svg?style=for-the-badge&logo=google-analytics&logoColor=black)
+![Semrush](https://img.shields.io/badge/Semrush-%23FF6F00.svg?style=for-the-badge&logo=semrush&logoColor=white)
 
-| **Digital Marketing Tools**                                      | **Development Stacks**                               | **Design Tools**                                      | **Other Skills**                                  |
-|------------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|--------------------------------------------------|
-| ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-%234285F4.svg?style=for-the-badge&logo=google-analytics&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white) | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
-| ![Google Ads](https://img.shields.io/badge/Google%20Ads-%234285F4.svg?style=for-the-badge&logo=google-ads&logoColor=white)       | ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)     | ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white) | ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white) |
-| ![SEMrush](https://img.shields.io/badge/SEMrush-FF6C37?style=for-the-badge&logo=semrush&logoColor=white)                       | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| ![Ahrefs](https://img.shields.io/badge/Ahrefs-3766AB?style=for-the-badge&logo=ahrefs&logoColor=white)                           | ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) | ![Networking](https://img.shields.io/badge/Networking-%23000000.svg?style=for-the-badge&logo=ethernet&logoColor=white) | ![RESTful API](https://img.shields.io/badge/RESTful%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white) |
-| ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)                  | ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) | | |
+---
+
+### **Development Skills**
+![MERN Stack](https://img.shields.io/badge/MERN_Stack-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Java with Spring](https://img.shields.io/badge/Java_with_Spring-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+
+---
+
+### **Design Tools**
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
+![Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2346C9F9.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### **Analytics & Tools**
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-%23F4B400.svg?style=for-the-badge&logo=google-analytics&logoColor=black)
+![Semrush](https://img.shields.io/badge/Semrush-%23FF6F00.svg?style=for-the-badge&logo=semrush&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-%23EA4335.svg?style=for-the-badge&logo=google-ads&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-%231D6F42.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
