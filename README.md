@@ -105,8 +105,6 @@ As the **Chief Technical Officer (CTO)** at **GURU Group Of Nepal**, I lead tech
 
 ---
 
-## **Call to Action**  
-
 ### **Let’s Collaborate!**  
 Looking for a **dedicated digital marketer** or **web developer** to transform your business?  
 I can help you:  
