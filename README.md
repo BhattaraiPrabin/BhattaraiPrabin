@@ -1,16 +1,9 @@
 # **Prabin Bhattarai**  
 **Digital Marketer | Developer | Aspiring Software Engineer**  
-### 📍 **Location**  
-**Kathmandu, Nepal**  
-### 📞 **WhatsApp**  
-**[9843018218](https://wa.me/9779843018218)**  
-
-### 📧 **Email**  
-**[prabinbhattarai43@gmail.com](mailto:prabinbhattarai43@gmail.com)**  
-
-### 🔗 **Social Profiles**  
-![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white) **[LinkedIn](https://www.linkedin.com/in/bhattaraiprabin/)**  
----
+📍 **Kathmandu, Nepal**  
+📞 **[9843018218](https://wa.me/9779843018218)**
+📧 **[prabinbhattarai43@gmail.com](mailto:prabinbhattarai43@gmail.com)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/bhattaraiprabin/)** | **[GitHub](https://github.com/BhattaraiPrabin/)**  
 
 ## **About Me**  
 I am **Prabin Bhattarai**, a passionate **Student of Information Technology**, **Digital Marketer**, and **Web Developer** with experience in **Search Engine Optimization (SEO)**, **Pay-Per-Click Advertising (PPC)**, and **Web Analytics**. With a Bachelor's degree in Computer Science (BCS IT) from **IUKL University**, I bring over **7 years of experience** in:  
