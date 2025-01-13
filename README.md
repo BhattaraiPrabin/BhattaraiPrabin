@@ -1,18 +1,15 @@
 # **Prabin Bhattarai**  
 **Digital Marketer | Developer | Aspiring Software Engineer**  
 ### 📍 **Location**  
-![Location Icon](https://img.shields.io/badge/Location-%23F0F0F0.svg?style=for-the-badge&logo=location-pin&logoColor=red) **Kathmandu, Nepal**  
+**Kathmandu, Nepal**  
 
-### 📞 **WhatsApp**  
 ![WhatsApp Icon](https://img.shields.io/badge/WhatsApp-%232C8B34.svg?style=for-the-badge&logo=whatsapp&logoColor=white) **[9843018218](https://wa.me/9779843018218)**  
 
 ### 📧 **Email**  
-![Email Icon](https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white) **[prabinbhattarai43@gmail.com](mailto:prabinbhattarai43@gmail.com)**  
+**[prabinbhattarai43@gmail.com](mailto:prabinbhattarai43@gmail.com)**  
 
 ### 🔗 **Social Profiles**  
 ![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white) **[LinkedIn](https://www.linkedin.com/in/bhattaraiprabin/)**  
-![GitHub Icon](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) **[GitHub](https://github.com/BhattaraiPrabin/)**
-
 ---
 
 ## **About Me**  
