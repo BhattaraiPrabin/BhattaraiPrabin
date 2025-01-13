@@ -2,8 +2,8 @@
 **Digital Marketer | Developer | Aspiring Software Engineer**  
 ### 📍 **Location**  
 **Kathmandu, Nepal**  
-
-![WhatsApp Icon](https://img.shields.io/badge/WhatsApp-%232C8B34.svg?style=for-the-badge&logo=whatsapp&logoColor=white) **[9843018218](https://wa.me/9779843018218)**  
+### 📞 **WhatsApp**  
+**[9843018218](https://wa.me/9779843018218)**  
 
 ### 📧 **Email**  
 **[prabinbhattarai43@gmail.com](mailto:prabinbhattarai43@gmail.com)**  
