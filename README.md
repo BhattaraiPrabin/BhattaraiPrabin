@@ -124,38 +124,10 @@ I can help you:
 
 ## Tools and Stacks I Work With  
 
-### 🌐 Digital Marketing Tools  
-- ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-%234285F4.svg?style=for-the-badge&logo=google-analytics&logoColor=white)  
-- ![Google Ads](https://img.shields.io/badge/Google%20Ads-%234285F4.svg?style=for-the-badge&logo=google-ads&logoColor=white)  
-- ![SEMrush](https://img.shields.io/badge/SEMrush-FF6C37?style=for-the-badge&logo=semrush&logoColor=white)  
-- ![Ahrefs](https://img.shields.io/badge/Ahrefs-3766AB?style=for-the-badge&logo=ahrefs&logoColor=white)  
-- ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)  
-
-### 💻 Development Stacks  
-- ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-- ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-- ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-- ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-### 🎨 Design Tools  
-- ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)  
-- ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)  
-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)  
-
-### 🖥️ Other Skills  
-- ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
-- ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)  
-- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-- ![Networking](https://img.shields.io/badge/Networking-%23000000.svg?style=for-the-badge&logo=ethernet&logoColor=white)  
-
-### 🔗 Tech Stacks for Projects  
-- ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-%235BDB4C.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-- ![API Development](https://img.shields.io/badge/RESTful%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white)  
-- ![WordPress Plugin](https://img.shields.io/badge/WordPress%20Plugin-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)  
-
----
-
-By using these branded icons, the content becomes visually appealing while clearly indicating the tools and technologies in use.
-
+| **Digital Marketing Tools**                                      | **Development Stacks**                               | **Design Tools**                                      | **Other Skills**                                  |
+|------------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|--------------------------------------------------|
+| ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-%234285F4.svg?style=for-the-badge&logo=google-analytics&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white) | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![Google Ads](https://img.shields.io/badge/Google%20Ads-%234285F4.svg?style=for-the-badge&logo=google-ads&logoColor=white)       | ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)     | ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white) | ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white) |
+| ![SEMrush](https://img.shields.io/badge/SEMrush-FF6C37?style=for-the-badge&logo=semrush&logoColor=white)                       | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| ![Ahrefs](https://img.shields.io/badge/Ahrefs-3766AB?style=for-the-badge&logo=ahrefs&logoColor=white)                           | ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) | ![Networking](https://img.shields.io/badge/Networking-%23000000.svg?style=for-the-badge&logo=ethernet&logoColor=white) | ![RESTful API](https://img.shields.io/badge/RESTful%20API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white) |
+| ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)                  | ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) | | |
