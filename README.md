@@ -89,7 +89,7 @@ As the **Chief Technical Officer (CTO)** at **GURU Group Of Nepal**, I lead tech
 ## **Key Achievements**  
 1. **SEO Excellence**: Improved organic traffic for Skill Training Nepal within six months.  
 2. **Web Development**: Delivered optimized, user-friendly websites for e-commerce and education sectors.  
-3. **Mentorship**: Trained over **200 students**, many of whom now excel in Nepal’s IT and digital marketing industries.  
+3. **Mentorship**: Trained over **1500 students**, many of whom now excel in Nepal’s IT and digital marketing industries.  
 4. **Technical Innovation**: Successfully integrated advanced tools like CRM systems and live chat into client platforms.  
 
 ---
