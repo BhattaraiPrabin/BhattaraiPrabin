@@ -1,3 +1,6 @@
+<meta name="title" content="Prabin Bhattarai - Digital Marketer | Developer | Aspiring Software Engineer">
+<meta name="description" content="Prabin Bhattarai is a Digital Marketer, Developer, and Aspiring Software Engineer based in Kathmandu, Nepal. Contact: 9843018218 | Email: prabinbhattarai43@gmail.com">
+
 # **Prabin Bhattarai**  
 **Digital Marketer | Developer | Aspiring Software Engineer**  
 📍 **Kathmandu, Nepal**  
