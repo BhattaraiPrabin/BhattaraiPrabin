@@ -22,7 +22,7 @@ As the **Chief Technical Officer (CTO)** at **GURU Group Of Nepal**, I lead tech
 
 ### **Chief Technical Officer (CTO)**  
 **GURU**  
-📆 **2019 - Present**  
+**2019 - Present**  
 - Involving in **technical teams** in web development, digital marketing, and technical support.  
 - Delivered **50+ impactful projects**, optimizing business workflows and enhancing online presence.  
 - Oversaw the development of platforms such as Nepguru, Mero Laptop, and Skill Training Nepal.  
@@ -40,7 +40,7 @@ As the **Chief Technical Officer (CTO)** at **GURU Group Of Nepal**, I lead tech
 
 ### **Digital Marketing Specialist**  
 **Guru Computer Solutions**  
-📆 **2019 - Present**  
+**2019 - Present**  
 - Increased client website traffic  through effective SEO strategies.  
 - Managed successful **PPC campaigns**, increasing ROI.  
 - Implemented **local SEO tactics**, improving visibility for regional businesses.  
@@ -49,7 +49,7 @@ As the **Chief Technical Officer (CTO)** at **GURU Group Of Nepal**, I lead tech
 
 ### **Technical Officer**  
 **Mercantile Traders Pvt. Ltd**  
-📆 **2018 - 2019**  
+**2018 - 2019**  
 - Resolved hardware, Network, and Software related problems.
 - Developed comprehensive technical documentation, enhancing user experience.  
 - Designed and maintained a **robust IT infrastructure** for internal operations.  
