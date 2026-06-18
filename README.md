@@ -3,10 +3,10 @@
 
 # **Prabin Bhattarai**  
 **Digital Marketer | Developer | Aspiring Software Engineer**  
-📍 **Kathmandu, Nepal**  
-📞 **[9843018218](https://wa.me/9779843018218)**
-📧 **[prabinbhattarai43@gmail.com](mailto:prabinbhattarai43@gmail.com)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/bhattaraiprabin/)** | **[GitHub](https://github.com/BhattaraiPrabin/)**  
+**Kathmandu, Nepal**  
+**[9843018218](https://wa.me/9779843018218)**
+**[prabinbhattarai43@gmail.com](mailto:prabinbhattarai43@gmail.com)**  
+**[LinkedIn](https://www.linkedin.com/in/bhattaraiprabin/)** | **[GitHub](https://github.com/BhattaraiPrabin/)**  
 
 ## **About Me**  
 I am **Prabin Bhattarai**, a passionate **Student of Information Technology**, **Digital Marketer**, and **Web Developer** with experience in **Search Engine Optimization (SEO)**, **Pay-Per-Click Advertising (PPC)**, and **Web Analytics**. With a Bachelor's degree in Computer Science (BCS IT) from **IUKL University**, I bring over **7 years of experience** in:  
@@ -112,7 +112,7 @@ I can help you:
 - Build user-friendly, responsive websites.  
 - Train your team to excel in **digital marketing**.  
 
-📞 **Call me** at **+977 9843018218** or 📧 **[prabinbhattarai43@gmail.com](mailto:prabinbhattarai43@gmail.com)** today!  
+**Call me** at **+977 9843018218** or 📧 **[prabinbhattarai43@gmail.com](mailto:prabinbhattarai43@gmail.com)** today!  
 
 ---
 
@@ -121,7 +121,7 @@ I can help you:
 - **GitHub**: [github.com/BhattaraiPrabin](https://github.com/BhattaraiPrabin/)  
 
 ------
-## 🚀 **Skills**
+##**Skills**
 
 ### **Digital Marketing**
 ![SEO](https://img.shields.io/badge/SEO-%23000000.svg?style=for-the-badge&logo=google&logoColor=white)
